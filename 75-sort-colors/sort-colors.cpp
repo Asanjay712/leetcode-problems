@@ -1,11 +1,6 @@
 class Solution {
 public:
 
-/*void swap(a,b){
-    int temp=a;
-    a=b;
-    b=temp;
-}*/
     void sortColors(vector<int>& nums) {
         int low=0;
     int mid=0;
